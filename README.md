@@ -1,2 +1,2 @@
 # Horiseon
-I fixed the borken links and I consolidated the CSS for the Horiseon website. 
+I fixed the broken links and I consolidated the CSS for the Horiseon website. 
